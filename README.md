@@ -3,7 +3,7 @@ My app helps Austin restaurant goers decide which restaurants are the cleanest a
 > A course project for **MIST 4600: Computer Programming in Business** at the University of Georgia's Terry College of Business (Fall 2026).
 
 ## Problem
-Austin restaurant goers do not always realize the cleanliness and reality of the places they go to eat. My app helps them make a more informed decision and always customers to feel confident in the quality and cleanliness of the restaurants they frequent.
+Austin restaurant goers do not always realize the cleanliness and reality of the places they go to eat. My app helps them make a more informed decision and allows customers to feel confident in the quality and cleanliness of the restaurants they frequent.
 
 ## What it does
 My app answers three questions:
